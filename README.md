@@ -15,4 +15,4 @@ How to use the project ?
 Open the solution with visual studio and launch it.
 
 You have to link all the librairies to be able to launch the project.
-See the Tutorial.pptx file at the root of the repository to know how to link everything.
+### See the Tutorial.pptx file at the root of the repository to know how to link everything.

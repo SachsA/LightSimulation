@@ -1,4 +1,4 @@
-# OpenGL Light Simulation - Semestre 1
+# OpenGL Light Simulation
 
 ##### Project done in Computer Graphics, at KMU, South Korea
 
